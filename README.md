@@ -35,19 +35,19 @@ I'm a final-year Computer Science student exploring the frontiers of **AI/ML, We
 
 ## 📈 GitHub Stats
 
-![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaheer-Ahmed17\&show_icons=true\&theme=radical)
+[![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaheer-Ahmed17&show_icons=true&theme=radical)](https://github.com/Shaheer-Ahmed17)
 
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-Ahmed17\&layout=compact\&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaheer-Ahmed17&layout=compact&theme=radical)](https://github.com/Shaheer-Ahmed17)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaheer-Ahmed17\&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaheer-Ahmed17&theme=radical)](https://git.io/streak-stats)
 
 ## 📊 Contributions Graph
 
-![Shaheer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-Ahmed17)
+[![Shaheer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaheer-Ahmed17&theme=react-dark)](https://github.com/Shaheer-Ahmed17)
 
 ## 📫 Connect with Me
 
